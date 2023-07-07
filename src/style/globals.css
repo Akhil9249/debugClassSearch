@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Open Sans", "Helvetica Neue" sans-serif;
+
+}
+body{
+    /* background: linear-gradient(45deg,orang,purple); */
+    background: rgb(224, 205, 168);
+    min-height: 100vh;
+    color: rgb(41, 41, 41);
+}
+#root{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 20px;
+}
